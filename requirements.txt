@@ -1,0 +1,10 @@
+gymnasium
+gymnasium_2048
+stable-baselines3[extra]
+transformers
+torch
+scikit-optimize
+numpy
+pandas
+matplotlib
+seaborn
